@@ -1,1 +1,18 @@
 
+.navbar-brand{
+  font-family: Hobeaux;
+  font-style: Black;
+}
+.nav-link{
+  font-family: Hobeaux;
+  font-style: Black;
+}
+.container-fluid{
+  text-align:center;
+}
+.container my-5{
+  font-size:50pt;
+}
+body{
+  font-family: Hobeaux !important;
+}
