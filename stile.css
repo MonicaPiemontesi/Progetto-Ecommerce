@@ -23,6 +23,7 @@ body{
     width:100%; 
     color:white; 
     border-bottom:2px solid orange; 
+    z-index:100;
 }
 .nav-link{
   margin-left:10pt;
