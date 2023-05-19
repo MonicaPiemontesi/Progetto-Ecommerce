@@ -1,18 +1,209 @@
-
+body{
+  background-color:black;
+  font-family: Hobeaux !important;
+}
 .navbar-brand{
   font-family: Hobeaux;
-  font-style: Black;
+  color:white;
+  font-size:25pt;
+  text-align: center;
+  margin-left: 300px;
+  margin-top:55px;
 }
-.nav-link{
-  font-family: Hobeaux;
-  font-style: Black;
+.navbar-toggler{
+  position:fixed;
+  background-color: orange;
+  margin-top:55px;
+  border:2px solid white
 }
 .container-fluid{
-  text-align:center;
+  background-color: black;
+  position: fixed;
+    max-width: auto; 
+    width:100%; 
+    color:white; 
+    border-bottom:2px solid orange; 
+}
+.nav-link{
+  margin-left:10pt;
+  font-family: Hobeaux;
+  color:white;
+  margin-top:50pt
+}
+.collapse navbar-collapse{
+  color:white;
 }
 .container my-5{
   font-size:50pt;
 }
+.container my-9{
+  text-align:center
+}
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+border-radius: 10px;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.col{
+  color:black
+}
+
+
+#box1{
+  margin:auto;
+  color:white; 
+  border-radius:20px;
+  width:auto;
+  height:500px;
+  font-family: Trebuchet MS, sans-serif;
+}
+
+#box4{
+  margin:auto;
+  width:100%;
+  height:500px;
+  background-color: white;
+  color:black;
+  text-align: center;
+}
+* {
+  margin:0;
+  padding:0;
+  font-family: 'Hobeaux';
+}
+
 body{
-  font-family: Hobeaux !important;
+  background-color: black;
+}
+
+.main{
+  height:100vh;
+  width:100%;  
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+}
+h1{
+  text-align:left;
+  text-transform: uppercase;
+  color: #F1FAEE; 
+  font-size: 4rem;
+}
+#TitoliAboutUs{
+  color:black;
+  margin: auto;
+  text-align:center;
+}
+.roller{
+  height: 4.125rem;
+  line-height: 4rem;
+  position: relative;
+  overflow: hidden; 
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  color: orange;
+}
+
+
+#spare-time{
+  font-family: Hobeaux;
+  font-size: 17pt;
+  letter-spacing: 1rem;
+  margin-top: 0;
+  color: white;
+  
+}
+
+.roller #rolltext {
+  position: absolute;
+  top: 0;
+  animation: slide 5s infinite;  
+}
+
+@keyframes slide {
+  0%{
+    top:0;
+  }
+  25%{
+    top: -4rem;    
+  }
+  50%{
+    top: -8rem;
+  }
+  72.5%{
+    top: -12.25rem;
+  }
+}
+
+@media screen and (max-width: 600px){
+  h1{
+  text-align:center;
+  text-transform: uppercase;
+  color: #F1FAEE; 
+  font-size: 2.125rem;
+}
+  
+  .roller{
+  height: 2.6rem; 
+  line-height: 2.125rem;  
+  }
+  
+  #spare-time {
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+  }
+  
+  .roller #rolltext {  
+  animation: slide-mob 10s infinite;  
+}
+  
+  @keyframes slide-mob {
+  0%{
+    top:0;
+  }
+  25%{
+    top: -2.125rem;    
+  }
+  50%{
+    top: -4.25rem;
+  }
+  72.5%{
+    top: -9.375rem;
+  }
+}
 }
