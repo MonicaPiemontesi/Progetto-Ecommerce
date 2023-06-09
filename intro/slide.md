@@ -13,7 +13,6 @@ footer: https://github.com/matteobaccan/CorsoWebDesign
 Impariamo insieme come utilizzare HTML, CSS e Javascript
 
 
-
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 <!-- style: "
