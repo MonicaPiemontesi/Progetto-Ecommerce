@@ -10,7 +10,7 @@ footer: https://github.com/matteobaccan/CorsoWebDesign
 
 # Corso WebDesign
 
-Impariamo insieme come utilizzare HTML, CSS e Javascript
+Dillo a tua mamma, Dillo al tuo avvocato.
 
 
 <!-- _paginate: false -->
