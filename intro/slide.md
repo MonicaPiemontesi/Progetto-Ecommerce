@@ -10,7 +10,8 @@ footer: https://github.com/matteobaccan/CorsoWebDesign
 
 # Corso WebDesign
 
-Impariamo insieme come utilizzare HTML, CSS e Javascript
+Impariamo
+
 
 
 <!-- _paginate: false -->
