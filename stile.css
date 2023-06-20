@@ -80,7 +80,6 @@ border-radius: 10px;
   color:black
 }
 
-
 #box1{
   margin:auto;
   color:white; 
@@ -109,7 +108,7 @@ border-radius: 10px;
 }
 
 #paragrafi{
-  width:800px;
+  width:auto;
   margin:auto;
 }
 body{
@@ -402,3 +401,12 @@ body3 {
   background: #425a52;
 }
 
+
+.container my-4{
+  color:white;
+}
+
+.container my-3{
+  width:auto;
+  
+}
