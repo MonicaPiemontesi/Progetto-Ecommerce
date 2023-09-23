@@ -1,5 +1,6 @@
 ---
 theme: default
+font-family: bebas neue pro
 _class: lead
 paginate: true
 backgroundColor: #fff
@@ -8,7 +9,7 @@ marp: true
 footer: https://github.com/matteobaccan/CorsoWebDesign
 ---
 
-# Corso WebDesign
+# Presentazione Progetto di E-Commerce
 
 Impariamo
 
