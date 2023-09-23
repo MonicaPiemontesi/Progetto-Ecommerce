@@ -3,7 +3,7 @@ theme: default
 _class: lead
 paginate: true
 backgroundColor: #fff
-backgroundImage: url('https://images.alphacoders.com/123/1239346.png')
+backgroundImage: url('https://img.freepik.com/free-photo/white-paper-texture_1194-2324.jpg?w=1060&t=st=1695479454~exp=1695480054~hmac=1b3f0b0e02e2ec8fee572b8b46a3d8f13fa942549008a0c092d41aef3470e2d6')
 marp: true
 footer:  https://ecommerce-piemontesi.netlify.app
 margin-left: 20
