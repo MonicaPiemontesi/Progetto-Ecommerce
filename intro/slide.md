@@ -6,7 +6,7 @@ backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 marp: true
 footer:  https://ecommerce-piemontesi.netlify.app
-margin: 5 auto
+margin: 5 
 ---
 
 # Presentazione Progetto di E-Commerce
