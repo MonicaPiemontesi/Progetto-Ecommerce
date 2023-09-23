@@ -5,7 +5,7 @@ paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 marp: true
-footer: https://github.com/matteobaccan/CorsoWebDesign
+footer:  https://ecommerce-piemontesi.netlify.app
 ---
 
 # Presentazione Progetto di E-Commerce
@@ -32,13 +32,19 @@ img[alt~='center'] {
 
 ---
 
-## Corso di Web Design
+## Indice dei contenuti
+1. Introduzione al sito: le pagine
+2. Le piattaforme e gli strumenti utilizzati
+3. La struttura base della pagina
+4. Immagini
+5. Homepage
+6. La storia
+7. Il Team
+8. Il prodotto
+9. Il carrello
+10. I contatti
+11. Le prestazioni e responsive
 
-Introduzione agli strumenti di sviluppo web
-_Lezione introduttiva del corso: conoscenza, obiettivi, primi argomenti.
-Parleremo di HTML, CSS, Javascript e di tecniche di sviluppo web_
-
-matteo@baccan.it – <https://www.baccan.it>
 
 ---
 
