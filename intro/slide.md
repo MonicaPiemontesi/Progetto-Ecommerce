@@ -3,7 +3,7 @@ theme: default
 _class: lead
 paginate: true
 backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
+backgroundImage: url('[https://marp.app/assets/hero-background.svg](https://images.alphacoders.com/123/1239346.png)')
 marp: true
 footer:  https://ecommerce-piemontesi.netlify.app
 margin-left: 20
