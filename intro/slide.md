@@ -1,6 +1,6 @@
 ---
 theme: default
-font-family: bebas neue 
+font-family: Hobeaux
 _class: lead
 paginate: true
 backgroundColor: #fff
