@@ -10,7 +10,8 @@ footer:  https://ecommerce-piemontesi.netlify.app
 
 # Presentazione Progetto di E-Commerce
 
-_**Corso di Web Design 2**_
+**Corso di Web Design 2**
+=========================
 A.A. 2022/2023
 
 **Monica Piemontesi**
