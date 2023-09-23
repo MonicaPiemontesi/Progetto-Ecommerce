@@ -15,6 +15,7 @@ A.A. 2022/2023
 
 Monica Piemontesi
 Matricola 829
+Indirizzo di Immagine d'impresa
 Docente Matteo Baccan
 
 
