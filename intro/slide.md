@@ -1,7 +1,5 @@
 ---
 theme: default
-font-family: Hobeaux (https://use.typekit.net/swk3feg.css)
-
 _class: lead
 paginate: true
 backgroundColor: #fff
@@ -11,7 +9,12 @@ footer: https://github.com/matteobaccan/CorsoWebDesign
 ---
 
 # Presentazione Progetto di E-Commerce
+Corso di Web Design 2
+A.A. 2022/2023
 
+Monica Piemontesi
+Matricola 829
+Docente Matteo Baccan
 
 
 
