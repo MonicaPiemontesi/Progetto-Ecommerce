@@ -45,7 +45,14 @@ img[alt~='center'] {
 10. I contatti
 11. Le prestazioni e responsive
 
-
+<!-- _paginate: false -->
+<!-- _footer: "" -->
+<!-- style: "
+img[alt~='center'] {
+  display: block;
+  margin: 0 auto;
+}
+" -->
 ---
 
 ## Nuova Slide
