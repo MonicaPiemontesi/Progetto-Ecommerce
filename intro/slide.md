@@ -1,6 +1,7 @@
 ---
 theme: default
-font-family: Hobeaux
+font-family: Hobeaux (https://use.typekit.net/swk3feg.css)
+
 _class: lead
 paginate: true
 backgroundColor: #fff
