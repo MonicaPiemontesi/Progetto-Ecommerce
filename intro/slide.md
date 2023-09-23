@@ -10,13 +10,13 @@ footer:  https://ecommerce-piemontesi.netlify.app
 
 # Presentazione Progetto di E-Commerce
 
-Corso di Web Design 2
+<b>Corso di Web Design 2<b>
 A.A. 2022/2023
 
-Monica Piemontesi
+<b>Monica Piemontesi<b>
 Matricola 829
 Indirizzo di Immagine d'impresa
-Docente Matteo Baccan
+Docente <b>Matteo Baccan<b>
 
 
 
