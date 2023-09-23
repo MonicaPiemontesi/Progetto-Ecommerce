@@ -56,6 +56,18 @@ img[alt~='center'] {
 " -->
 ---
 
-## Nuova Slide
+## Introduzione al sito: la pagine
+L'obiettivo dell'esame di Web Design 2 consiste nella creazione di un'ecommerce nuovo.
+Io ho scelto di creare un sito di strumenti musicali dal nome 45 Giri Lab.
 
-test
+---
+## Le pagine del sito
+Il sito si suddivide in 6 sezioni fondamentali:
+-Homepage
+-La storia
+-Il Team
+-Il prodotto
+-Il carrello
+-I contatti
+
+---
