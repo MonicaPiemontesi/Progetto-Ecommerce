@@ -73,33 +73,38 @@ Il sito si suddivide in 6 sezioni fondamentali:
 
 ---
 ## Le piattaforme e gli strumenti utilizzati
-Per la creazione di questo sito ho utilizzato tre piattaforme: Codespace di GitHub e Netlify.
+Per la creazione di questo sito ho utilizzato tre piattaforme: **Codespace di GitHub** e **Netlify**.
 Per la scrittura dei codici invece sono stata supportata da Bootstrap e l'intelligenza artificiale ChatGpt.
 
 ---
 ## Codespace di GitHub e Netlify
-**Codespace** è un'estensione di GitHub che permette di di visualizzare direttamente il sito senza uscire da GitHub.  
+**Codespace** è un'estensione di GitHub che permette di visualizzare direttamente il sito senza uscire da GitHub.  
 **Netlify** è invece una società di cloud con cui abbiamo già lavorato nel primo corso di Web Design. Il nostro repository di GitHub è collegato a Netlify e da esso possiamo sviluppare il sito. 
 
 ---
 ## Bootstrap
-**Bootstrap è invece una libreria open source fornita di strumenti per la creazione di siti.
+**Bootstrap** è invece una libreria open source fornita di strumenti per la creazione di siti e applicazioni.
 Ci è utile per regolare in maniera ordinata gli elementi che compongono la nostra pagina.
 
 ---
 ## ChatGPT
----
-## La struttura base della pagina
-La scrittura di ogni documento html ha due elementi costanti ossia la **barra di navigazione** e il **footer**.
-La prima si presenta in maniera semplice, con il naming e le sezioni delle pagine visitabili (si raccolgono in un burger menù se il formato di visualizzazione è ridotto).
-Il footer invece presenta la denominazione del copyright, i vari link alla privacy, i termini e le condizioni e i dati geografici dell'azienda.
+
+**ChatGPT** è un chatbot basato su intelligenza artificiale e machine learning. È in grado di fornirci tantissimi informazioni e l'abbiamo interpella* per darci un input per la creazione del sito.
 
 ---
-## Le immagini
+## La struttura base della pagina
+La scrittura di ogni documento html ha due elementi costanti ossia la *barra di navigazione*, detta anche **header** e il **footer**.
+La *prima* si presenta in maniera semplice, con il naming e le sezioni delle pagine visitabili (si raccolgono in un burger menù se il formato di visualizzazione è ridotto).
+Il *footer* invece presenta la denominazione del copyright, i vari link alla privacy, i termini e le condizioni e i dati geografici dell'azienda.
+
 ---
 ## Homepage
+L'homepage si apre con uno slider introduttivo.
+
 ---
 ## La storia
+La pagina dedicata alla storia è costituita principalmente da immagini e testo.
+
 ---
 ## Il Team
 ---
