@@ -16,48 +16,103 @@
   <!-- Link Swiper's CSS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
   
+<!-- Link Javascript -->
+<script src="index.js"></script>
  
 
 </head>
 <body>
   <header>
-    <nav class="navbar navbar-expand-lg navbar-light bg-vk">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="index.html">45 Giri Lab.</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="index.html">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="aboutus.html">About Us</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="team.html">The Team</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="prodotto.html">Merch</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="carrello.html">Cart <span style="width: 200px; height:100px; border-radius: 5px; border: 1px solid black; padding: 4px; background-color: orange; color:white" id="carrello">0</span></a></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="contacts.html">Contacts</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
-  </header>
+    <nav>
+    <div class="logo"><b>45 Giri Lab.</b></div>
+<ul class="menu">
+  <li><a href="index.html">Home</a></li>
+  <li><a href="aboutus.html">About Us</a></li>
+  <li><a href="team.html">Team</a></li>
+  <li><a href="prodotto.html">Store</a></li>
+  <li><a href="carrello.html">Carrello</a></li>
+  <li><a href="contacts.html">Contatti</a></li>
+</ul>
+<div class="menu-toggle">
+  <div class="menu-toggle-line"></div>
+  <div class="menu-toggle-line"></div>
+  <div class="menu-toggle-line"></div>
+</div>
+</nav>
 
+  </header>
+  
+<br>
+  <footer>
+  <footer class="footer-section">
+  <div class="container">
+      <div class="footer-content pt-5 pb-5">
+          <div class="row">
+              <div class="col-xl-4 col-lg-4 mb-50">
+              </div>
+              <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+                  <div class="footer-widget">
+                      <div class="footer-widget-heading">
+                          <h3>Link utili</h3>
+                      </div>
+                      <ul>
+                          <li><a href="#">Termini e condizioni</a></li>
+                          <li><a href="#">Privacy policy</a></li>
+                          <li><a href="#">Cookie Policy</a></li>
+                          <li><a href="#">Credits</a></li>
+                      </ul>
+                  </div>
+              </div>
+              <div class="col-xl-4 col-lg-4 col-md-6 mb-50">
+                  <div class="footer-widget">
+                      <div class="footer-widget-heading">
+                          <h3>Lasciaci un contatto</h3>
+                      </div>
+                      <div class="footer-text mb-25">
+                          <p>Vogliamo sempre aggiornarti sulle edizioni limitate e gli eventi che organizziamo. Lasciaci una mail, non te ne pentirai.</p>
+                      </div>
+                      <div class="subscribe-form">
+                          <form action="#">
+                              <input type="text" placeholder="Indirizzo mail">
+                              <button><i class="fab fa-telegram-plane"></i></button>
+                          </form>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+  <div class="copyright-area">
+      <div class="container">
+          <div class="row">
+              <div class="col-xl-6 col-lg-6 text-center text-lg-left">
+                  <div class="copyright-text">
+                      <p>Copyright &copy; 2023, All Right Reserved <b>45 Giri Lab.</b></a></p>
+                  </div>
+              </div>
+              <div class="col-xl-6 col-lg-6 d-none d-lg-block text-right">
+                  <div class="footer-menu">
+  
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+  </footer>
+
+  <script>
+  // JavaScript per gestire il toggle del menu mobile
+  const menuToggle = document.querySelector('.menu-toggle');
+  const menu = document.querySelector('.menu');
+
+  menuToggle.addEventListener('click', () => {
+      menu.classList.toggle('active');
+  });
+</script>
    <!-- Collegamento ai file JavaScript di Bootstrap -->
  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
 
  <!-- Swiper JS -->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
 
-   });
  </script>
