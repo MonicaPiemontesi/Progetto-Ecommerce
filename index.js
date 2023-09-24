@@ -27,3 +27,8 @@ window.onload=function(){
       innerGifImage.style.webkitTransform = "rotate(" + degree + "deg)";
       innerGifImage.style.transform = "rotate(" + degree + "deg)";
     }
+  }
+  
+  
+  // JavaScript to toggle the responsive menu
+const menuToggle = document.querySelect
