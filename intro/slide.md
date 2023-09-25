@@ -173,7 +173,7 @@ img[alt~='center'] {
 La pagina dedicata alla storia è costituita principalmente da un'animazione del testo di apertura (*class=roller*) regolato da uno *span*, elementi testuali alternati a visual.
 Per creare l'effetto di animazione mi sono ispirata ad un prodotto di Codepen.
 
-![bg right:40% h:auto](immagini/about1.jpg)
+![bg right:40% h:400px](immagini/about1.jpg)
 
 ---
 ## La storia
