@@ -138,16 +138,45 @@ Fatta eccezione per lo slider, ogni blocco testuale è scandito da una classe di
 L'ultima sezione testuale aggiunge anche un pulsante di rimando alla pagina dello "store" attraverso un **button di Call To Action** "Clicca qui per scoprire i nostri prodotti".
 ![h:auto](immagini/home1.png)
 
+<!-- _paginate: false -->
+<!-- _footer: "" -->
+<!-- style: "
+img[alt~='center'] {
+  display: block;
+  margin: 0 auto;
+}
+" -->
+
 ---
 ![h:auto](immagini/home2.png)
 
+<!-- _paginate: false -->
+<!-- _footer: "" -->
+<!-- style: "
+img[alt~='center'] {
+  display: block;
+  margin: 0 auto;
+}
+" -->
+
 ---
 ![h:auto](immagini/home3.png)
+
+<!-- _paginate: false -->
+<!-- _footer: "" -->
+<!-- style: "
+img[alt~='center'] {
+  display: block;
+  margin: 0 auto;
+}
+" -->
 
 ---
 ## La storia
 La pagina dedicata alla storia è costituita principalmente da un'animazione del testo di apertura (*class=roller*) regolato da uno *span*, elementi testuali alternati a visual.
 Per creare l'effetto di animazione mi sono ispirata ad un prodotto di Codepen.
+
+![bg right:40% h:150px](immagini/about1.jpg)
 
 ---
 ## La storia
@@ -157,19 +186,28 @@ Le tre sezioni (container) riprendono e approfondiscono le parole chiave che tro
 3. Amore
 Troviamo così una *class* che si applica ai titolo (<h1 class="TitoliAboutUs">) e da una classe che regola i paragrafi.
 
+![bg right:40% h:150px](immagini/about2.jpg)
+
 ---
 ## Il Team
 La pagina del team si apre con un effetto di scorrimento verso l'alto.
 Abbiamo un background immagine con un testo sovrapposto.
 Successivamente troviamo la sezione con le immagini del team. Ponendo il cursore sull'immagine, il visual di base verrà oscurato dalla didascalia esplicativa del team.
 
+![bg right:40% h:150px](immagini/team1.jpg)
+
 ---
 ## Il prodotto
 La pagina del prodotto è una delle due più complesse.
 Si compone di un container 
 
+![bg right:40% h:150px](immagini/store.jpg)
+
 ---
 ## Il carrello
+
+![bg right:40% h:150px](immagini/carrello.jpg)
+
 ---
 ## I contatti
 I contatti si presentano come una pagina semplice. Abbiamo un brackground con un testo che spiega ai navigatori i dati per raggiungerci telefonicamente e geograficamente. 
