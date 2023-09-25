@@ -85,6 +85,7 @@ Per la scrittura dei codici invece sono stata supportata da Bootstrap e l'intell
 ![bg right:50% h:130px](Slide Immagini/github.png)
 
 ![bg right:50% h:130px](Slide Immagini/net.png) 
+
 ---
 ## Bootstrap
 **Bootstrap** è invece una libreria open source fornita di strumenti per la creazione di siti e applicazioni.
