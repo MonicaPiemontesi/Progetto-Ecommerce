@@ -105,12 +105,12 @@ Il *footer* invece presenta la denominazione del copyright, i vari link alla pri
 
 ---
 ## Header
-![bg h:130px](immagini/header.jpg)
-![bg h:130px](immagini/headhtml.jpg)
+![ h:auto](immagini/header.jpg)
+![bg h:auto](immagini/headhtml.jpg)
 
 ---
 ## Footer
-![bg h:130px](immagini/footer.jpg)
+![bg h:auto](immagini/footer.jpg)
 
 ---
 
