@@ -82,21 +82,20 @@ Per la scrittura dei codici invece sono stata supportata da Bootstrap e l'intell
 **Codespace** è un'estensione di GitHub che permette di visualizzare direttamente il sito senza uscire da GitHub.  
 **Netlify** è invece una società di cloud con cui abbiamo già lavorato nel primo corso di Web Design. Il nostro repository di GitHub è collegato a Netlify e da esso possiamo sviluppare il sito.
 
-![ h:130px](immagini/github.png)
-<br>
-![h:130px](immagini/net.png) 
+![bg h:130px](immagini/github.png)
+![bg h:130px](immagini/net.png) 
 
 ---
 ## Bootstrap
 **Bootstrap** è invece una libreria open source fornita di strumenti per la creazione di siti e applicazioni.
 Ci è utile per regolare in maniera ordinata gli elementi che compongono la nostra pagina.
-![bg right:60% h:130px](immagini/Bootstrap_logo.svg.png)
+![bg right:40% h:150px](immagini/Bootstrap_logo.svg.png)
 
 ---
 ## ChatGPT
 
 **ChatGPT** è un chatbot basato su intelligenza artificiale e machine learning. È in grado di fornirci tantissimi informazioni e l'abbiamo interpella* per darci un input per la creazione del sito.
-![bg left:60% h:130px](immagini/ChatGPT_logo.svg.png)
+![bg right:40% h:150px](immagini/ChatGPT_logo.svg.png)
 
 ---
 ## La struttura base della pagina
@@ -105,10 +104,13 @@ La *prima* si presenta in maniera semplice, con il naming e le sezioni delle pag
 Il *footer* invece presenta la denominazione del copyright, i vari link alla privacy, i termini e le condizioni e i dati geografici dell'azienda.
 
 ---
-Inserire Header
+## Header
+![bg h:130px](immagini/header.png)
+![bg h:130px](immagini/headhtml.png)
 
 ---
-Inserire footer e spiegarlo
+## Footer
+![bg h:130px](immagini/footer.png)
 
 ---
 
