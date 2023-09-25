@@ -81,7 +81,7 @@ Per la scrittura dei codici invece sono stata supportata da Bootstrap e l'intell
 
 **Codespace** è un'estensione di GitHub che permette di visualizzare direttamente il sito senza uscire da GitHub.  
 **Netlify** è invece una società di cloud con cui abbiamo già lavorato nel primo corso di Web Design. Il nostro repository di GitHub è collegato a Netlify e da esso possiamo sviluppare il sito.
-![bg right:30% h:130px] (Slide Immagini/github.png)
+![bg right:30% h:130px] (Slide Immagini/net.png)
 
 ---
 ## Bootstrap
