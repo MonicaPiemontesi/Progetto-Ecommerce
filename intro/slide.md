@@ -83,6 +83,7 @@ Per la scrittura dei codici invece sono stata supportata da Bootstrap e l'intell
 **Netlify** è invece una società di cloud con cui abbiamo già lavorato nel primo corso di Web Design. Il nostro repository di GitHub è collegato a Netlify e da esso possiamo sviluppare il sito.
 
 ![bg right:40% h:120px](immagini/github.png)
+<br>
 ![bg right:40% h:120px](immagini/net.png) 
 
 ---
