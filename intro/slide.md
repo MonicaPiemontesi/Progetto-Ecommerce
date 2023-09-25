@@ -136,13 +136,13 @@ Il codice nativo dello slider è stato preso dal sito di Swiperjs (https://swipe
 ## Homepage
 Fatta eccezione per lo slider, ogni blocco testuale è scandito da una classe di headline e da paragrafi.
 L'ultima sezione testuale aggiunge anche un pulsante di rimando alla pagina dello "store" attraverso un **button di Call To Action** "Clicca qui per scoprire i nostri prodotti".
-![h:auto](immagini/home1.jpg)
+![h:auto](immagini/home1.png)
 
 ---
-![h:auto](immagini/home2.jpg)
+![h:auto](immagini/home2.png)
 
 ---
-![h:auto](immagini/home3.jpg)
+![h:auto](immagini/home3.png)
 
 ---
 ## La storia
