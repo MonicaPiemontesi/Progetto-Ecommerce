@@ -82,10 +82,6 @@ Per la scrittura dei codici invece sono stata supportata da Bootstrap e l'intell
 **Codespace** è un'estensione di GitHub che permette di visualizzare direttamente il sito senza uscire da GitHub.  
 **Netlify** è invece una società di cloud con cui abbiamo già lavorato nel primo corso di Web Design. Il nostro repository di GitHub è collegato a Netlify e da esso possiamo sviluppare il sito.
 
-![bg right:40% h:120px](immagini/github.png)
-<br>
-![bg right:40% h:120px](immagini/net.png) 
-
 ---
 ## Bootstrap
 **Bootstrap** è invece una libreria open source fornita di strumenti per la creazione di siti e applicazioni.
@@ -124,6 +120,7 @@ Hobeaux è un font che necessita però di una licenza, infatti nei vari document
   <link rel="stylesheet" href="https://use.typekit.net/swk3feg.css">
 
 ![bg right:30% h:130px](immagini/hobeaux.png)
+
 
 ---
 ## Homepage
