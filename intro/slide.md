@@ -183,7 +183,7 @@ Le tre sezioni (container) riprendono e approfondiscono le parole chiave che tro
 3. Amore
 Troviamo così una *class* che si applica ai titolo (<h1 class="TitoliAboutUs">) e da una classe che regola i paragrafi.
 
-![bg right:40% h:150px](immagini/about2.jpg)
+![bg right:40% h:400px](immagini/about2.jpg)
 
 ---
 ## Il Team
@@ -191,19 +191,19 @@ La pagina del team si apre con un effetto di scorrimento verso l'alto.
 Abbiamo un background immagine con un testo sovrapposto.
 Successivamente troviamo la sezione con le immagini del team. Ponendo il cursore sull'immagine, il visual di base verrà oscurato dalla didascalia esplicativa del team.
 
-![bg right:40% h:150px](immagini/team1.jpg)
+![bg right:40% h:400px](immagini/team1.jpg)
 
 ---
 ## Il prodotto
 La pagina del prodotto è una delle due più complesse.
 Si compone di un container 
 
-![bg right:40% h:150px](immagini/store.jpg)
+![bg right:40% h:350px](immagini/store.jpg)
 
 ---
 ## Il carrello
 
-![bg right:40% h:150px](immagini/carrello.jpg)
+![bg right:40% h:350px](immagini/carrello.jpg)
 
 ---
 ## I contatti
