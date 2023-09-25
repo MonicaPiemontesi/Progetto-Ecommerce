@@ -151,5 +151,9 @@ Si compone di un container
 ## Il carrello
 ---
 ## I contatti
+I contatti si presentano come una pagina semplice. Abbiamo un brackground con un testo che spiega ai navigatori i dati per raggiungerci telefonicamente e geograficamente. 
+Di seguito è inserita un **<iframe>** che incorporare la mappa geografica della sede.
+Il footer è ridotto rispetto alle altre pagine per non essere ridondanti nelle informazioni. Contiene infatti solo i **link utili**, il box per l'iscrizione alla newsletter e la barra conclusiva con il mark del copyright e dei diritti.
+
 ---
 ## Le prestazioni e responsive
