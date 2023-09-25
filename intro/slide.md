@@ -99,14 +99,22 @@ Il *footer* invece presenta la denominazione del copyright, i vari link alla pri
 
 ---
 ## Homepage
-L'homepage si apre con uno slider introduttivo.
+L'homepage è costituita da 4 blocchi principali.
+Si apre con un visual e una parte testuale che ringrazia a introduce il visitatore nel sito. Anche nel secondo abbiamo una composizione similare, che guida lo user verso uno slider. 
+Lo slider presenta una serie di prodotti "Limited Edition" e contiene 3 immagini che scorrono automaticamente in un intervallo di 4 secondi (funzione autoplay javascript).
+Il codice nativo dello slider è stato preso dal sito di Swiperjs (https://swiperjs.com/).
 
 ---
 ## La storia
-La pagina dedicata alla storia è costituita principalmente da immagini e testo.
+La pagina dedicata alla storia è costituita principalmente da un'animazione del testo di apertura, elementi testuali alternati a visual.
+Per creare l'effetto di animazione mi sono ispirata ad un prodotto di Codepen.
 
 ---
 ## Il Team
+La pagina del team si apre con un effetto di scorrimento verso l'alto.
+Abbiamo un background immagine con un testo sovrapposto.
+Successivamente troviamo la sezione con le immagini del team. Ponendo il cursore sull'immagine, il visual di base verrà oscurato dalla didascalia esplicativa del team.
+
 ---
 ## Il prodotto
 ---
