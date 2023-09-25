@@ -98,6 +98,20 @@ La *prima* si presenta in maniera semplice, con il naming e le sezioni delle pag
 Il *footer* invece presenta la denominazione del copyright, i vari link alla privacy, i termini e le condizioni e i dati geografici dell'azienda.
 
 ---
+Inserire Header
+
+---
+Inserire footer e spiegarlo
+
+---
+
+## Il font
+Il carattere tipografico utilizzato per la formattazione del sito è quello di **Hobeaux** poichè un carattere scherzoso ma interessante, e si adatta all'identità del brand di 45 Giri Lab.
+Hobeaux è un font che necessita però di una licenza, infatti nei vari documenti html è presente il link di riferimento ad Adobe.
+ <!-- Collegamento ad licenza Adobe Fonts -->
+  <link rel="stylesheet" href="https://use.typekit.net/swk3feg.css">
+
+---
 ## Homepage
 L'homepage è costituita da 4 blocchi principali.
 Si apre con un visual e una parte testuale che ringrazia a introduce il visitatore nel sito. Anche nel secondo abbiamo una composizione similare, che guida lo user verso uno slider. 
@@ -105,9 +119,22 @@ Lo slider presenta una serie di prodotti "Limited Edition" e contiene 3 immagini
 Il codice nativo dello slider è stato preso dal sito di Swiperjs (https://swiperjs.com/).
 
 ---
+## Homepage
+Fatta eccezione per lo slider, ogni blocco testuale è scandito da una classe di headline e da paragrafi.
+L'ultima sezione testuale aggiunge anche un pulsante di rimando alla pagina dello "store" attraverso un **button di Call To Action** "Clicca qui per scoprire i nostri prodotti".
+
+---
 ## La storia
-La pagina dedicata alla storia è costituita principalmente da un'animazione del testo di apertura, elementi testuali alternati a visual.
+La pagina dedicata alla storia è costituita principalmente da un'animazione del testo di apertura (*class=roller*) regolato da uno *span*, elementi testuali alternati a visual.
 Per creare l'effetto di animazione mi sono ispirata ad un prodotto di Codepen.
+
+---
+## La storia
+Le tre sezioni (container) riprendono e approfondiscono le parole chiave che troviamo nel *text effect* di apertura:
+1. Persone
+2. Innovazione
+3. Amore
+Troviamo così una *class* che si applica ai titolo (<h1 class="TitoliAboutUs">) e da una classe che regola i paragrafi.
 
 ---
 ## Il Team
@@ -117,6 +144,9 @@ Successivamente troviamo la sezione con le immagini del team. Ponendo il cursore
 
 ---
 ## Il prodotto
+La pagina del prodotto è una delle due più complesse.
+Si compone di un container 
+
 ---
 ## Il carrello
 ---
