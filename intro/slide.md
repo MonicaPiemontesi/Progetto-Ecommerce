@@ -77,6 +77,7 @@ Per la creazione di questo sito ho utilizzato tre piattaforme: **Codespace di Gi
 Per la scrittura dei codici invece sono stata supportata da Bootstrap e l'intelligenza artificiale ChatGpt.
 
 ---
+(github.png)
 ## Codespace di GitHub e Netlify
 **Codespace** è un'estensione di GitHub che permette di visualizzare direttamente il sito senza uscire da GitHub.  
 **Netlify** è invece una società di cloud con cui abbiamo già lavorato nel primo corso di Web Design. Il nostro repository di GitHub è collegato a Netlify e da esso possiamo sviluppare il sito. 
