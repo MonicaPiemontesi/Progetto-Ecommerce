@@ -82,9 +82,9 @@ Per la scrittura dei codici invece sono stata supportata da Bootstrap e l'intell
 **Codespace** è un'estensione di GitHub che permette di visualizzare direttamente il sito senza uscire da GitHub.  
 **Netlify** è invece una società di cloud con cui abbiamo già lavorato nel primo corso di Web Design. Il nostro repository di GitHub è collegato a Netlify e da esso possiamo sviluppare il sito.
 
-![bg right:30% h:130px](immagini/github.png)
+![ h:130px](immagini/github.png)
 <br>
-![bg right:30% h:130px](immagini/net.png) 
+![h:130px](immagini/net.png) 
 
 ---
 ## Bootstrap
@@ -96,7 +96,7 @@ Ci è utile per regolare in maniera ordinata gli elementi che compongono la nost
 ## ChatGPT
 
 **ChatGPT** è un chatbot basato su intelligenza artificiale e machine learning. È in grado di fornirci tantissimi informazioni e l'abbiamo interpella* per darci un input per la creazione del sito.
-![bg right:60% h:130px](immagini/ChatGPT_logo.svg.png)
+![bg left:60% h:130px](immagini/ChatGPT_logo.svg.png)
 
 ---
 ## La struttura base della pagina
