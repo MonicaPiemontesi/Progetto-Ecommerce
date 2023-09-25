@@ -82,21 +82,21 @@ Per la scrittura dei codici invece sono stata supportata da Bootstrap e l'intell
 **Codespace** è un'estensione di GitHub che permette di visualizzare direttamente il sito senza uscire da GitHub.  
 **Netlify** è invece una società di cloud con cui abbiamo già lavorato nel primo corso di Web Design. Il nostro repository di GitHub è collegato a Netlify e da esso possiamo sviluppare il sito.
 
-![bg right:30% h:130px](SlideImmagini/github.png)
+![bg right:30% h:130px](immagini/github.png)
 
-![bg right:30% h:130px](SlideImmagini/net.png) 
+![bg right:30% h:130px](immagini/net.png) 
 
 ---
 ## Bootstrap
 **Bootstrap** è invece una libreria open source fornita di strumenti per la creazione di siti e applicazioni.
 Ci è utile per regolare in maniera ordinata gli elementi che compongono la nostra pagina.
-![bg right:40% h:130px](SlideImmagini/Bootstrap_logo.svg.png)
+![bg right:40% h:130px](immagini/Bootstrap_logo.svg.png)
 
 ---
 ## ChatGPT
 
 **ChatGPT** è un chatbot basato su intelligenza artificiale e machine learning. È in grado di fornirci tantissimi informazioni e l'abbiamo interpella* per darci un input per la creazione del sito.
-![bg right:40% h:130px](SlideImmagini/ChatGPT_logo.svg.png)
+![bg right:40% h:130px](immagini/ChatGPT_logo.svg.png)
 
 ---
 ## La struttura base della pagina
@@ -118,7 +118,7 @@ Hobeaux è un font che necessita però di una licenza, infatti nei vari document
  <!-- Collegamento ad licenza Adobe Fonts -->
   <link rel="stylesheet" href="https://use.typekit.net/swk3feg.css">
 
-![bg right:30% h:130px](SlideImmagini/hobeaux.png)
+![bg right:30% h:130px](immagini/hobeaux.png)
 
 ---
 ## Homepage
