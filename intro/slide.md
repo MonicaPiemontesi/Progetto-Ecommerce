@@ -211,5 +211,8 @@ I contatti si presentano come una pagina semplice. Abbiamo un brackground con un
 Di seguito è inserita un **<iframe>** che incorporare la mappa geografica della sede.
 Il footer è ridotto rispetto alle altre pagine per non essere ridondanti nelle informazioni. Contiene infatti solo i **link utili**, il box per l'iscrizione alla newsletter e la barra conclusiva con il mark del copyright e dei diritti.
 
+![bg right:40% h:350px](immagini/contatti.jpg)
+
 ---
 ## Le prestazioni e responsive
+![b h:auto](immagini/gtmetrix.png)
