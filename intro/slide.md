@@ -66,7 +66,6 @@ Io ho scelto di creare un sito di strumenti musicali dal nome di 45 Giri Lab.
 Il sito si suddivide in 6 sezioni fondamentali:
 -Homepage
 -La storia
--Il Team
 -Il prodotto
 -Il carrello
 -I contatti
@@ -186,24 +185,16 @@ Troviamo così una *class* che si applica ai titolo (<h1 class="TitoliAboutUs">)
 ![bg right:40% h:400px](immagini/about2.jpg)
 
 ---
-## Il Team
-La pagina del team si apre con un effetto di scorrimento verso l'alto.
-Abbiamo un background immagine con un testo sovrapposto.
-Successivamente troviamo la sezione con le immagini del team. Ponendo il cursore sull'immagine, il visual di base verrà oscurato dalla didascalia esplicativa del team.
-
-![bg right:40% h:400px](immagini/team1.jpg)
-
----
 ## Il prodotto
 La pagina del prodotto è una delle due più complesse.
-Si compone di un container 
+Si compone di una contenitore che racchiude le schede prodotto che si possono aggiungere al carrello.
+
 
 ![bg right:40% h:350px](immagini/store.jpg)
 
 ---
 ## Il carrello
-
-![bg right:40% h:350px](immagini/carrello.jpg)
+![bg h:auto](immagini/carrello.jpg)
 
 ---
 ## I contatti
@@ -213,6 +204,3 @@ Il footer è ridotto rispetto alle altre pagine per non essere ridondanti nelle 
 
 ![bg right:40% h:350px](immagini/contatti.jpg)
 
----
-## Le prestazioni e responsive
-![b h:auto](immagini/gtmetrix.png)
